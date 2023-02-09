@@ -1,0 +1,30 @@
+.home {
+  .home-filter {
+    justify-content: flex-end;
+    margin-bottom: 20px;
+
+    .search-input {
+      width: 200px;
+    }
+  }
+
+  .home-base-map {
+    border: 1px solid #eeeeee;
+  }
+
+  .shanchu {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+  }
+
+  .nameInput {
+    width: 200px;
+    margin: 0 8px 8px 0;
+  }
+
+  .nameP {
+    position: relative;
+    top: 7px;
+  }
+}

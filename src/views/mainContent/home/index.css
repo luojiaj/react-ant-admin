@@ -1,0 +1,59 @@
+.home .home-filter {
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.home .home-filter .search-input {
+  width: 200px;
+}
+
+.home .home-base-map {
+  border: 1px solid #eeeeee;
+}
+
+.home .shanchu {
+  position: absolute;
+  top: 15px;
+  right: 135px;
+}
+
+.home .nameInput,
+.home .phoneInput,
+.home .companyInput {
+  width: 200px;
+}
+
+.home .projectSummaryInput {
+  width: 100%;
+}
+
+.home .nameP,
+.home .projectSummaryP {
+  position: relative;
+  top: 7px;
+}
+
+.home .projectSummaryP {
+  width: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.home .statuSwitch {
+  position: absolute;
+  top: -32px;
+  left: 70px;
+}
+
+.home .download {
+  position: absolute;
+  top: 15px;
+  right: 210px;
+}
+
+.home .upload {
+  position: absolute;
+  top: 15px;
+  right: 331px;
+}
